@@ -20,6 +20,8 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
 
 <p align="center">
 🚀Technologies I Use
+</p>
+<p align="center">
 - 🐍 Python  
 - 🐬 MySQL  
 - 📊 Power BI  
