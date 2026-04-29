@@ -23,7 +23,7 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
 </div>
 
 <p align="center">
-🚀Technologies I Use
+🚀Technologies I use
 </p>
 <p align="center">
 - 🐍 Python  
