@@ -5,6 +5,15 @@ Me gustaría presentarme, mi nombre es Isanagui. Me gradué de la facultad de So
 Paralelamente al curso de Google, realicé un posgrado en el Colpis (Colegio de Politólogos y Sociólogos de Barcelona) en Analítica de Datos y Programación Aplicada a las Ciencias Sociales (2022-2023), donde me inicié en la programación en lenguaje R. Sabía que necesitaba más formación si quería cambiar de profesión, y en septiembre de 2024 comencé un bootcamp en Cibernarium especializado en análisis de datos (donde he aprendido a programar en SQL y Python y a modelar con PowerBI). Al mismo tiempo, me apunté a un posgrado en la UB (Universidad de Barcelona) en Introducción a la Ciencia de Datos.  
 </div>
 
+<p align="center">
+🚀Tecnologias que uso
+</p>
+<p align="center">
+- 🐍 Python  
+- 🐬 MySQL  
+- 📊 Power BI  
+- 🔵 R  
+  </p>
 
 ## Hi there 👋  
 <div style="text-align: justify;">
