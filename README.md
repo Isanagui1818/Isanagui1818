@@ -14,47 +14,47 @@ I would like to introduce myself, my name is Isanagui. I graduated from the Facu
 In parallel with the Google course, I completed a postgraduate program at Colpis (College of Political Scientists and Sociologists of Barcelona) in Data Analytics and Programming Applied to Social Sciences (2022-2023), where I started learning R programming. I knew I needed more training if I wanted to change careers, so in September 2024, I began a bootcamp at Cibernarium specializing in data analysis (where I learned to program in SQL and Python and to model with PowerBI). At the same time, I enrolled in a postgraduate program at UB (University of Barcelona) in Introduction to Data Science.  
 </div>
 
-<h2 align="justify">💻 Technologies</h2>
+<h2 align="center">💻 Technologies</h2>
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" width="50" height="50" alt="Python" />
+      <img src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" width="50" height="50" alt="Python" title="Python" />
     </td>
     <td align="center">
-      <img src="https://framalibre.org/images/logo/Rstudio.png" width="50" height="50" alt="R" />
+      <img src="https://framalibre.org/images/logo/Rstudio.png" width="50" height="50" alt="R" title="R" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" width="50" height="50" alt="SQL" />
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" width="50" height="50" alt="SQL" title="SQL" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" width="50" height="50" alt="VS Code" />
+      <img src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" width="50" height="50" alt="VS Code" title="VS Code" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" width="50" height="50" alt="Jupyter" />
+      <img src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" width="50" height="50" alt="Jupyter" title="Jupyter notebook" />
     </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="50" height="50" alt="MySQL" />
+      <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="50" height="50" alt="MySQL" title="MySQL" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
     </td>
     <td align="center">
-      <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" />
+      <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" title="Power BI" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" width="50" height="50" alt="Canva" />
+      <img src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" width="50" height="50" alt="Canva" title="Canva" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" title="Figma" />
     </td>
   </tr>
 </table>
 
 <hr />
-
 
 
 <!--
