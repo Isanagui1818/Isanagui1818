@@ -1,18 +1,55 @@
 ![Typing SVG](https://camo.githubusercontent.com/e8f2824462c9469f11c1be592b8574ae2f11dd4ed59c13fccb26a88c7aa3ba72/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4a6574627261696e732b6d6f6e6f2673697a653d3430266475726174696f6e3d3330303026636f6c6f723d3333464633332663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d4865792e2e2e2b5468652b576f726c643b49732b596f7572732e2e2e3b416e642e2e2e2b546869732b49733b2e2e2e2b4d792b4769746875622e3b)
 
-## Hola a todos 👋  
-<div style="text-align: justify;">
-Me gustaría presentarme, mi nombre es Isanagui. Me gradué de la facultad de Sociología de la UAB (Universidad Autónoma de Barcelona) en 2014. Posteriormente, el mundo empezó a dar vueltas y vueltas hasta que, poco a poco, llegué a interesarme por el apasionante mundo de los datos a través del curso de Google Data Analytics de Coursera. Una vez terminada esta formación, tuve claro que quería dedicarme al mundo de los datos.  
+## 👋 ¡Hola! Soy Isanagui
 
-Paralelamente al curso de Google, realicé un posgrado en el Colpis (Colegio de Politólogos y Sociólogos de Barcelona) en Analítica de Datos y Programación Aplicada a las Ciencias Sociales (2022-2023), donde me inicié en la programación en lenguaje R. Sabía que necesitaba más formación si quería cambiar de profesión, y en septiembre de 2024 comencé un bootcamp en Cibernarium especializado en análisis de datos (donde he aprendido a programar en SQL y Python y a modelar con PowerBI). Al mismo tiempo, me apunté a un posgrado en la UB (Universidad de Barcelona) en Introducción a la Ciencia de Datos.  
-</div>
+🎓 Sociólogo de formación, analista de datos por vocación y entusiasta de la ciberseguridad en constante aprendizaje.
 
-## Hi there 👋  
-<div style="text-align: justify;">
-I would like to introduce myself, my name is Isanagui. I graduated from the Faculty of Sociology at UAB (Autonomous University of Barcelona) in 2014. After that, the world started to turn round and round until, little by little, I became interested in the fascinating world of data through the Google Data Analytics course on Coursera. Once I completed this training, I was certain that I wanted to pursue a career in data.  
+Mi camino no ha sido lineal, y eso es lo que lo hace interesante:
 
-In parallel with the Google course, I completed a postgraduate program at Colpis (College of Political Scientists and Sociologists of Barcelona) in Data Analytics and Programming Applied to Social Sciences (2022-2023), where I started learning R programming. I knew I needed more training if I wanted to change careers, so in September 2024, I began a bootcamp at Cibernarium specializing in data analysis (where I learned to program in SQL and Python and to model with PowerBI). At the same time, I enrolled in a postgraduate program at UB (University of Barcelona) in Introduction to Data Science.  
-</div>
+- 📚 Me gradué en **Sociología**, donde desarrollé pensamiento analítico y comprensión del comportamiento humano.
+- 📊 Di el salto al mundo del dato estudiando **Análisis de Datos**, aprendiendo a transformar información en decisiones.
+- 🔐 Actualmente explorando el mundo de la **Ciberseguridad**.
+
+### 💼 Experiencia profesional
+
+He trabajado como **Data Engineer** en una consultora de datos, donde lideré un proyecto para un cliente del sector farmacéutico:
+
+- 🏗️ Diseñé y construí la **arquitectura del pipeline de datos** usando **IICS** (Informatica Intelligent Cloud Services).
+- ❄️ Cargué y gestioné los datos en **Snowflake**.
+- 📈 Desarrollé un **dashboard en Power BI** con métricas **DAX** personalizadas para el cálculo de los **KPIs** requeridos por el cliente.
+
+### 🛠️ Stack tecnológico
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![IICS](https://img.shields.io/badge/Informatica_IICS-FF6D00?style=flat&logoColor=white)
+## 👋 Hi there! I'm Isanagui
+
+🎓 Sociology graduate, data analyst by passion, and cybersecurity enthusiast on a continuous learning journey.
+
+My path hasn't been linear — and that's exactly what makes it interesting:
+
+- 📚 I hold a degree in **Sociology**, where I built strong analytical thinking and an understanding of human behavior.
+- 📊 I transitioned into the data world by studying **Data Analysis**, learning to turn raw information into actionable insights.
+- 🔐 Currently diving into the world of **Cybersecurity**.
+
+### 💼 Professional Experience
+
+I worked as a **Data Engineer** at a data consultancy, leading a project for a client in the **pharmaceutical sector**:
+
+- 🏗️ Designed and built the **data pipeline architecture** using **IICS** (Informatica Intelligent Cloud Services).
+- ❄️ Loaded and managed data in **Snowflake**.
+- 📈 Developed a **Power BI dashboard** with custom **DAX metrics** to calculate the **KPIs** required by the client.
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![IICS](https://img.shields.io/badge/Informatica_IICS-FF6D00?style=flat&logoColor=white)
 
 <h2 align="center">💻 Technologies</h2>
 
