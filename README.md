@@ -14,7 +14,7 @@ I would like to introduce myself, my name is Isanagui. I graduated from the Facu
 In parallel with the Google course, I completed a postgraduate program at Colpis (College of Political Scientists and Sociologists of Barcelona) in Data Analytics and Programming Applied to Social Sciences (2022-2023), where I started learning R programming. I knew I needed more training if I wanted to change careers, so in September 2024, I began a bootcamp at Cibernarium specializing in data analysis (where I learned to program in SQL and Python and to model with PowerBI). At the same time, I enrolled in a postgraduate program at UB (University of Barcelona) in Introduction to Data Science.  
 </div>
 
-
+<h2 align="center">💻 Technologies</h2>
 <table align="center">
   <tr>
     <td align="center">
