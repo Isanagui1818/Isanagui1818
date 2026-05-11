@@ -7,36 +7,16 @@ Me gustaría presentarme, mi nombre es Isanagui. Me gradué de la facultad de So
 Paralelamente al curso de Google, realicé un posgrado en el Colpis (Colegio de Politólogos y Sociólogos de Barcelona) en Analítica de Datos y Programación Aplicada a las Ciencias Sociales (2022-2023), donde me inicié en la programación en lenguaje R. Sabía que necesitaba más formación si quería cambiar de profesión, y en septiembre de 2024 comencé un bootcamp en Cibernarium especializado en análisis de datos (donde he aprendido a programar en SQL y Python y a modelar con PowerBI). Al mismo tiempo, me apunté a un posgrado en la UB (Universidad de Barcelona) en Introducción a la Ciencia de Datos.  
 </div>
 
-<p align="center">
-🚀Tecnologias que uso
-</p>
-<p align="center">
-- 🐍 Python  
-- 🐬 MySQL  
-- 📊 Power BI  
-- 🔵 R  
-  </p>
-
 ## Hi there 👋  
 <div style="text-align: justify;">
 I would like to introduce myself, my name is Isanagui. I graduated from the Faculty of Sociology at UAB (Autonomous University of Barcelona) in 2014. After that, the world started to turn round and round until, little by little, I became interested in the fascinating world of data through the Google Data Analytics course on Coursera. Once I completed this training, I was certain that I wanted to pursue a career in data.  
 
 In parallel with the Google course, I completed a postgraduate program at Colpis (College of Political Scientists and Sociologists of Barcelona) in Data Analytics and Programming Applied to Social Sciences (2022-2023), where I started learning R programming. I knew I needed more training if I wanted to change careers, so in September 2024, I began a bootcamp at Cibernarium specializing in data analysis (where I learned to program in SQL and Python and to model with PowerBI). At the same time, I enrolled in a postgraduate program at UB (University of Barcelona) in Introduction to Data Science.  
 </div>
-
-<p align="center">
-🚀Technologies I use
-</p>
-<p align="center">
-- 🐍 Python  
-- 🐬 MySQL  
-- 📊 Power BI  
-- 🔵 R  
-  </p>
   
-| Herramientas |
+| Tools |
 | :---: |
-| <img width="40" height="40" title="VS Code" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" /> <img width="40" height="40" title="Python" src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" /> <img width="40" height="40" title="Jupyter notebook" src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" /> <img width="40" height="40" title="Canva" src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" /> <img width="40" height="40" title="IICS Informatica" src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" /> <img width="40" height="40" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> <img width="40" height="40" title="R" src="https://framalibre.org/images/logo/Rstudio.png" /> <img width="40" height="40" title="Power Bi" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img width="40" height="40" title="Snowflake" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" /> <img width="40" height="40" title="SQL" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" /> <img width="40" height="40" title="MySQL" src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" /> |
+| <img width="40" height="40" title="Python" src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" /> <img width="40" height="40" title="R" src="https://framalibre.org/images/logo/Rstudio.png" /> <img width="40" height="40" title="SQL" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" /> <img width="40" height="40" title="VS Code" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" /> <img width="40" height="40" title="Jupyter notebook" src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" /> <img width="40" height="40" title="MySQL" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/mysql.svg" /> <img width="40" height="40" title="Snowflake" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" /> <img width="40" height="40" title="IICS Informatica" src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" /> <img width="40" height="40" title="Power Bi" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img width="40" height="40" title="Canva" src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" /> <img width="40" height="40" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> |
 <!--
 **Isanagui1818/Isanagui1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
