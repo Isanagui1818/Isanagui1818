@@ -13,14 +13,7 @@ I would like to introduce myself, my name is Isanagui. I graduated from the Facu
 
 In parallel with the Google course, I completed a postgraduate program at Colpis (College of Political Scientists and Sociologists of Barcelona) in Data Analytics and Programming Applied to Social Sciences (2022-2023), where I started learning R programming. I knew I needed more training if I wanted to change careers, so in September 2024, I began a bootcamp at Cibernarium specializing in data analysis (where I learned to program in SQL and Python and to model with PowerBI). At the same time, I enrolled in a postgraduate program at UB (University of Barcelona) in Introduction to Data Science.  
 </div>
-  
-<h2 align="center">💻 Technologies</h2>
-<p align="center">
-  <img width="50" height="50" title="Python" src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" /><img width="50" height="50" title="R" src="https://framalibre.org/images/logo/Rstudio.png" /><img width="50" height="50" title="SQL" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" /><img width="50" height="50" title="VS Code" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" /><img width="50" height="50" title="Jupyter notebook" src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" /><img width="50" height="50" title="MySQL" src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" /><img width="50" height="50" title="Snowflake" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" /><img width="50" height="50" title="IICS Informatica" src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" /><img width="50" height="50" title="Power Bi" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /><img width="50" height="50" title="Canva" src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" /><img width="50" height="50" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-</p>
-<hr />
 
-<h2 align="center">💻 Technologies</h2>
 
 <table align="center">
   <tr>
