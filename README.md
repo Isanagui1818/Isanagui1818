@@ -34,7 +34,7 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
 - 🔵 R  
   </p>
 
-  <img width="400" height="400" alt="imagen" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" />
+  <img width="40" height="40" alt="imagen" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" />
 
 <!--
 **Isanagui1818/Isanagui1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
