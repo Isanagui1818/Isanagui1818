@@ -37,7 +37,7 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
 | Herramientas |
 | :---: |
 | <img width="40" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" /> <img width="40" src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" /> <img width="40" height="40" alt="imagen" src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" /> <img width="40" height="40" alt="imagen" src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" /> <img width ="40" height="40" src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" />
-|
+
 <!--
 **Isanagui1818/Isanagui1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
