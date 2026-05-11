@@ -23,9 +23,20 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
 
 <h2 align="center">💻 Technologies</h2>
 
-| |
-| :--- |
-| <img width="50" height="40" title="Python" src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" /> <img width="50" height="40" title="R" src="https://framalibre.org/images/logo/Rstudio.png" /> <img width="50" height="40" title="SQL" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" /> <img width="50" height="40" title="VS Code" src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" /> <img width="50" height="40" title="Jupyter notebook" src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" /> <img width="50" height="40" title="MySQL" src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" /> <img width="50" height="40" title="Snowflake" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" /> <img width="50" height="40" title="IICS Informatica" src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" /> <img width="50" height="40" title="Power Bi" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img width="50" height="40" title="Canva" src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" /> <img width="50" height="40" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> |
+<h2 align="center">💻 Technologies</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" width="50" height="50" alt="Python" />
+  <img src="https://framalibre.org/images/logo/Rstudio.png" width="50" height="50" alt="R" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" width="50" height="50" alt="SQL" />
+  <img src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" width="50" height="50" alt="VS Code" />
+  <img src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" width="50" height="50" alt="Jupyter" />
+  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="50" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" />
+  <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power Bi" />
+  <img src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" width="50" height="50" alt="Canva" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
+</p>
 
 <hr />
 <!--
