@@ -8,7 +8,7 @@ Mi camino no ha sido lineal, y eso es lo que lo hace interesante:
 
 - 📚 Me gradué en **Sociología**, donde desarrollé pensamiento analítico y comprensión del comportamiento humano.
 - 📊 Di el salto al mundo del dato estudiando **Análisis de Datos**, aprendiendo a transformar información en decisiones.
-- 🔐 Actualmente explorando el mundo de la **Ciberseguridad**.
+- 🔐 Actualmente explorando el mundo de la **Ciberseguridad** y **n8n**.
 
 ### 💼 Experiencia profesional
 
@@ -25,6 +25,8 @@ He trabajado como **Data Engineer** en una consultora de datos, donde lideré un
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![IICS](https://img.shields.io/badge/Informatica_IICS-FF6D00?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
 ## 👋 Hi there! I'm Isanagui
 
 🎓 Sociology graduate, data analyst by passion, and cybersecurity enthusiast on a continuous learning journey.
@@ -33,7 +35,7 @@ My path hasn't been linear — and that's exactly what makes it interesting:
 
 - 📚 I hold a degree in **Sociology**, where I built strong analytical thinking and an understanding of human behavior.
 - 📊 I transitioned into the data world by studying **Data Analysis**, learning to turn raw information into actionable insights.
-- 🔐 Currently diving into the world of **Cybersecurity**.
+- 🔐 Currently diving into the world of **Cybersecurity** and **n8n**.
 
 ### 💼 Professional Experience
 
@@ -50,6 +52,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![IICS](https://img.shields.io/badge/Informatica_IICS-FF6D00?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 <h2 align="center">💻 Technologies</h2>
 
