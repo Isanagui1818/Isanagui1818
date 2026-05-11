@@ -52,7 +52,7 @@ In parallel with the Google course, I completed a postgraduate program at Colpis
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" title="Figma" />
     </td>
       <td align="center">
-      <img src="https://img.favpng.com/22/8/22/logo-brand-product-design-mongodb-inc-png-favpng-13yBqZGHy2HnwTeqaw2tCs8B6.jpg" width="50" height="50" alt="MongoDB" title="MongoDB" />
+      <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" />
     </td>
   </tr>
 </table>
