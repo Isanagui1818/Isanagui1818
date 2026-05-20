@@ -96,6 +96,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" title="Figma" />
     </td>
+      <td align="center">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png)" width="50" height="50" alt="Excel" title="Excel" />
+    </td>
   </tr>
 </table>
 
