@@ -108,6 +108,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
     <td align="center">
       <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" /><br/>IICS
     </td>
+    <td align="center">
+      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Excel
+    </td>
   </tr>
 </table>
 
@@ -119,7 +122,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" title="Power BI" /><br/>Power BI
     </td>
     <td align="center">
-      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Excel
+      <img src="https://e7.pngegg.com/pngimages/415/374/png-clipart-tableau-software-computer-software-logo-business-intelligence-software-business-partner-blue-angle.png" width="50" height="50" alt="Excel" title="Tableau" /><br/>Excel
     </td>
   </tr>
 </table>
