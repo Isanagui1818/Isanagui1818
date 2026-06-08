@@ -89,8 +89,8 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
      <td align="center">
       <img src="https://pngdownloads.wordpress.com/wp-content/uploads/2025/11/google-antigravity-logo-icon-png.jpg" width="50" height="50" alt="Jupyter" title="Google Antigravity" /><br/>Google Antigravity
     </td>
-     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/960px-RStudio_logo_flat.svg.png" width="70 height="70" alt="R Studio" title="Jupyter Notebook" /><br/>R Studio
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/960px-RStudio_logo_flat.svg.png" width="80" height="40" alt="R Studio" title="R Studio" /><br/>R Studio
     </td>
   </tr>
 </table>
