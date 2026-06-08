@@ -102,9 +102,6 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <td align="center">
       <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" />
     </td>
-    <td align="center">
-      <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="Excel" title="phpMyAdmin" />
-    </td>
   </tr>
 </table>
 
