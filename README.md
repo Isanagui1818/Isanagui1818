@@ -82,6 +82,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
     </td>
     <td align="center">
+      <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="Excel" title="phpMyAdmin" />
+    </td>
+    <td align="center">
       <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" />
     </td>
      <td align="center">
@@ -99,8 +102,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <td align="center">
       <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" />
     </td>
-    </td>
-      <td align="center">
+    <td align="center">
       <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="Excel" title="phpMyAdmin" />
     </td>
   </tr>
