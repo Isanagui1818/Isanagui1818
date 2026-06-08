@@ -112,7 +112,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" /><br/>IICS
     </td>
     <td align="center">
-      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Excel
+      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Microsoft Excel
     </td>
       <td align="center">
       <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" /><br/>MongoDB
