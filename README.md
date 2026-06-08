@@ -99,10 +99,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
     <td align="center">
       <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="phpMyAdmin" title="phpMyAdmin" /><br/>phpMyAdmin
     </td>
-    <td align="center">
-      <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" /><br/>MongoDB
-    </td>
-    <td align="center">
+      <td align="center">
       <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" /><br/>Snowflake
     </td>
     <td align="center">
@@ -110,6 +107,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
     </td>
     <td align="center">
       <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Excel
+    </td>
+      <td align="center">
+      <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" /><br/>MongoDB
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" title="Power BI" /><br/>Power BI
     </td>
     <td align="center">
-      <img src="https://e7.pngegg.com/pngimages/415/374/png-clipart-tableau-software-computer-software-logo-business-intelligence-software-business-partner-blue-angle.png" width="50" height="50" alt="Excel" title="Tableau" /><br/>Excel
+      <img src="https://e7.pngegg.com/pngimages/415/374/png-clipart-tableau-software-computer-software-logo-business-intelligence-software-business-partner-blue-angle.png" width="50" height="50" alt="Excel" title="Tableau" /><br/>Tableau
     </td>
   </tr>
 </table>
