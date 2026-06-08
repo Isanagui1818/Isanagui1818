@@ -60,49 +60,79 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 
 <h2 align="center">💻 Technologies</h2>
 
+<!-- Lenguajes de programación -->
+<h4 align="center">🧑‍💻 Lenguajes de programación</h4>
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" width="50" height="50" alt="Python" title="Python" />
+      <img src="https://github.com/user-attachments/assets/b3fab9cc-84f0-48df-aabd-c362a7cbee0e" width="50" height="50" alt="Python" title="Python" /><br/>Python
     </td>
     <td align="center">
-      <img src="https://framalibre.org/images/logo/Rstudio.png" width="50" height="50" alt="R" title="R" />
+      <img src="https://framalibre.org/images/logo/Rstudio.png" width="50" height="50" alt="R" title="R" /><br/>R
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" width="50" height="50" alt="SQL" title="SQL" />
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/database.svg" width="50" height="50" alt="SQL" title="SQL" /><br/>SQL
+    </td>
+  </tr>
+</table>
+
+<!-- Entornos de desarrollo -->
+<h4 align="center">🛠️ Entornos de desarrollo</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" width="50" height="50" alt="VS Code" title="VS Code" /><br/>VS Code
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b7844f3a-42e3-4469-aa87-793b78ef0781" width="50" height="50" alt="VS Code" title="VS Code" />
+      <img src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" width="50" height="50" alt="Jupyter" title="Jupyter Notebook" /><br/>Jupyter
+    </td>
+  </tr>
+</table>
+
+<!-- Bases de datos & Data Warehouse -->
+<h4 align="center">🗄️ Bases de datos & Data Warehouse</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="50" height="50" alt="MySQL" title="MySQL" /><br/>MySQL
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/53491a6b-52f0-421a-84bb-e6a4c6ebaee7" width="50" height="50" alt="Jupyter" title="Jupyter notebook" />
+      <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="phpMyAdmin" title="phpMyAdmin" /><br/>phpMyAdmin
     </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" width="50" height="50" alt="MySQL" title="MySQL" />
+      <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" /><br/>MongoDB
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" /><br/>Snowflake
     </td>
     <td align="center">
-      <img src="https://www.pngfind.com/pngs/m/344-3444991_phpmyadmin-hd-png-download.png" width="50" height="50" alt="Excel" title="phpMyAdmin" />
+      <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" /><br/>IICS
+    </td>
+  </tr>
+</table>
+
+<!-- Business Intelligence & Visualización -->
+<h4 align="center">📊 Business Intelligence & Visualización</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" title="Power BI" /><br/>Power BI
     </td>
     <td align="center">
-      <img src="https://images.g2crowd.com/uploads/product/image/2bb31cddcd2305ee07557f89fc878eba/informatica-cloud-mass-ingestion.jpg" width="50" height="50" alt="Informatica" title="IICS Informatica" />
+      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" /><br/>Excel
     </td>
-     <td align="center">
-      <img src="https://www.ibm.com/content/adobe-cms/es/es/products/instana/supported-technologies/mongodb-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage.coreimg.png/1772182284216/mongodb.png" width="50" height="50" alt="MongoDB" title="MongoDB" />
+  </tr>
+</table>
+
+<!-- Diseño -->
+<h4 align="center">🎨 Diseño</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" width="50" height="50" alt="Canva" title="Canva" /><br/>Canva
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" title="Power BI" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/6d318290-c5de-4a23-b5e0-73254268f454" width="50" height="50" alt="Canva" title="Canva" />
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" title="Figma" />
-    </td>
-      <td align="center">
-      <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="50" height="50" alt="Excel" title="Microsoft Excel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" title="Figma" /><br/>Figma
     </td>
   </tr>
 </table>
