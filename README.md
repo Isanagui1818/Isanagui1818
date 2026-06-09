@@ -1,36 +1,3 @@
-![Typing SVG](https://camo.githubusercontent.com/e8f2824462c9469f11c1be592b8574ae2f11dd4ed59c13fccb26a88c7aa3ba72/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4a6574627261696e732b6d6f6e6f2673697a653d3430266475726174696f6e3d3330303026636f6c6f723d3333464633332663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d4865792e2e2e2b5468652b576f726c643b49732b596f7572732e2e2e3b416e642e2e2e2b546869732b49733b2e2e2e2b4d792b4769746875622e3b)
-
-## 👋 ¡Hola! Soy Isanagui
-
-🎓 Sociólogo de formación, analista de datos por vocación y entusiasta de la ciberseguridad en constante aprendizaje.
-
-Mi camino no ha sido lineal, y eso es lo que lo hace interesante:
-
-- 📚 Me gradué en **Sociología**, donde desarrollé pensamiento analítico y comprensión del comportamiento humano.
-- 📊 Di el salto al mundo del dato estudiando **Análisis de Datos**, aprendiendo a transformar información en decisiones.
-- 🔐 Actualmente explorando el mundo de la **Ciberseguridad** y **n8n**.
-
-### 💼 Experiencia profesional
-
-He trabajado como **Data Engineer** en una consultora de datos, donde lideré un proyecto para un cliente del sector farmacéutico:
-
-- 🏗️ Diseñé y construí la **arquitectura del pipeline de datos** usando **IICS** (Informatica Intelligent Cloud Services).
-- ❄️ Cargué y gestioné los datos en **Snowflake**.
-- 📈 Desarrollé un **dashboard en Power BI** con métricas **DAX** personalizadas para el cálculo de los **KPIs** requeridos por el cliente.
-
-### 🛠️ Stack tecnológico
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![IICS](https://img.shields.io/badge/Informatica_IICS-FF6D00?style=flat&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
-
-<sub><img src="https://flagcdn.com/16x12/us.png" alt="US"> English version</sub>
-
 ## 👋 Hi there! I'm Isanagui
 
 🎓 Sociology graduate, data analyst by passion, and cybersecurity enthusiast on a continuous learning journey.
