@@ -6,7 +6,7 @@ My path hasn't been linear — and that's exactly what makes it interesting:
 
 - 📚 I hold a degree in **Sociology**, where I built strong analytical thinking and an understanding of human behavior.
 - 📊 I transitioned into the data world by studying **Data Analysis**, learning to turn raw information into actionable insights.
-- 🔐 Currently diving into the world of **Cybersecurity** and **n8n**.
+- 🔐 Currently diving into the world of **Cybersecurity**.
 
 ### 💼 Professional Experience
 
