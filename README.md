@@ -29,6 +29,8 @@ He trabajado como **Data Engineer** en una consultora de datos, donde lideré un
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 
+<sub><img src="https://flagcdn.com/16x12/us.png" alt="US"> English version</sub>
+
 ## 👋 Hi there! I'm Isanagui
 
 🎓 Sociology graduate, data analyst by passion, and cybersecurity enthusiast on a continuous learning journey.
