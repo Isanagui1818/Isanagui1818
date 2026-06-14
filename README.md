@@ -33,7 +33,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 <h2 align="center">💻 Technologies</h2>
 
 <!-- Lenguajes de programación -->
-<h4 align="center">🧑‍💻 Lenguajes de programación</h4>
+<h4 align="center">🧑‍💻 Programming languages</h4>
 <table align="center">
   <tr>
     <td align="center">
@@ -49,7 +49,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 </table>
 
 <!-- Entornos de desarrollo -->
-<h4 align="center">🛠️ Entornos de desarrollo</h4>
+<h4 align="center">🛠️ Development environments</h4>
 <table align="center">
   <tr>
     <td align="center">
@@ -68,7 +68,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 </table>
 
 <!-- Bases de datos & Data Warehouse -->
-<h4 align="center">🗄️ Bases de datos & Data Warehouse</h4>
+<h4 align="center">🗄️ Databases & Data Warehouse</h4>
 <table align="center">
   <tr>
     <td align="center">
@@ -93,7 +93,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 </table>
 
 <!-- Business Intelligence & Visualización -->
-<h4 align="center">📊 Business Intelligence & Visualización</h4>
+<h4 align="center">📊 Business Intelligence & Visualization</h4>
 <table align="center">
   <tr>
     <td align="center">
@@ -106,7 +106,7 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 </table>
 
 <!-- Diseño -->
-<h4 align="center">🎨 Diseño</h4>
+<h4 align="center">🎨 Design</h4>
 <table align="center">
   <tr>
     <td align="center">
