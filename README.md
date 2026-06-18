@@ -120,8 +120,6 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 
 <hr />
 
-<hr />
-
 <h2 align="center">💻 GitHub Stats</h2>
 
 <p align="center">
