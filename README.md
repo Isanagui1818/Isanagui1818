@@ -120,6 +120,21 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 
 <hr />
 
+<hr />
+
+<h2 align="center">💻 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isanagui1818&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isanagui1818&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isanagui1818&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 <!--
 **Isanagui1818/Isanagui1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
