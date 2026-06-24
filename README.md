@@ -102,6 +102,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
     <td align="center">
       <img src="https://e7.pngegg.com/pngimages/415/374/png-clipart-tableau-software-computer-software-logo-business-intelligence-software-business-partner-blue-angle.png" width="50" height="50" alt="Excel" title="Tableau" /><br/>Tableau
     </td>
+        <td align="center">
+      <img src="https://images.seeklogo.com/logo-png/45/1/streamlit-logo-png_seeklogo-458260.png" width="50" height="50" alt="Streamlit" title="Streamlit" /><br/>Streamlit
+    </td>
   </tr>
 </table>
 
