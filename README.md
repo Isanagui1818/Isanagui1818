@@ -142,6 +142,12 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isanagui1818&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+<!-- Gráfico último año -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isanagui1818&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true" />
+</p>
+
 <!--
 Here are some ideas to get you started:
 
