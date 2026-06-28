@@ -138,6 +138,9 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isanagui1818&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isanagui1818&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 <!--
 **Isanagui1818/Isanagui1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
