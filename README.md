@@ -126,27 +126,22 @@ I worked as a **Data Engineer** at a data consultancy, leading a project for a c
 
 <h2 align="center"> 💻 GitHub Stats</h2>
 
+<!-- Fila 1: Stats + Streak lado a lado -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isanagui1818&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isanagui1818&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isanagui1818&theme=dark&hide_border=true" height="150" />
 </p>
 
+<!-- Fila 2: Top Languages + Repo pin lado a lado -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isanagui1818&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isanagui1818&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isanagui1818&repo=iberia-marketshare&theme=dark&hide_border=true" height="150" />
 </p>
 
+<!-- Fila 3: Gráfico de actividad completo -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isanagui1818&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isanagui1818&theme=react-dark&hide_border=true&area=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isanagui1818&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isanagui1818&repo=barcelona-bicing-analysis&theme=dark&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Isanagui1818&theme=darkhub&no-frame=true&row=1)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isanagui1818&theme=github_dark)
-![Productive Box](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isanagui1818&theme=github_dark)
-
 <!--
 Here are some ideas to get you started:
 
